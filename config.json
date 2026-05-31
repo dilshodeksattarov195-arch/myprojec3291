@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsronnect",
+        "uuid": 10991940,
+        "checksum": "hdjyw7"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
